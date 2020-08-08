@@ -1,6 +1,6 @@
-# Hi, I'm Sharna! 👋
+## Hi, I'm Sharna! 👋
 
-## I'm a developer based in Brooklyn, New York.
+### I'm a developer based in Brooklyn, New York.
 
 * 🔭 Currently seeking new opportunities in software/web development
 * 🧙‍♂️ My favorite tools, stacks, and languages:
