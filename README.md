@@ -8,7 +8,7 @@
    * Adobe Illustrator & Photoshop | SVGs
    * WebGL | Three.js | GLSL | Blender3D
 * 📖 Currently learning: Python3, 3D shaders, C++
-* 💬 Ping me about: React.js, web accessibility, computer graphics, web design, diversity, Lord of the Rings, anime/manga
+* 💬 Ping me about: React.js, web accessibility, computer graphics, web design, diversity, LoTR, anime/manga
 * 👩‍🏫 Education:
    * (2018-2018) New York Code + Design Academy - Web Development
    * (2020-present) City University of New York - Computer Science
