@@ -7,7 +7,7 @@
    * JavaScript(ES6+) | React.js | Redux.js | Node.js
    * Adobe Illustrator & Photoshop | SVGs
    * WebGL | Three.js | GLSL | Blender3D
-* 📖 Currently learning: Python3, Three.js, GLSL, C++
+* 📖 Currently learning: Python, C++
 * 💬 Ping me about: React.js, web accessibility, computer graphics, web design, diversity, LoTR, [anime/manga](https://anilist.co/user/frimize3n/)
 * 🏠 [My little corner of the internet](https://sharna.dev)
 * 💌 Contact me @ [sharnajh@gmail.com](mailto:sharnajh@gmail.com)
