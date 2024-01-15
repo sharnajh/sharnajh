@@ -1,6 +1,6 @@
 ### Hi, I'm Sharna! 👋
 
-#### I'm a developer based in Brooklyn, New York.
+#### I'm a softwre engineer based in Brooklyn, New York.
 
 * 👩🏽‍💻 Software Engineer working in Java, Spring, React
 * 💬 Ping me about: React.js, web accessibility, computer graphics, web design, diversity, LoTR, [anime/manga](https://anilist.co/user/frimize3n/)
